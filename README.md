@@ -71,5 +71,5 @@ Dhananjaya H M
 
 
  
- smart
-smatr-calculator
+
+smart-calculator
